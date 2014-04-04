@@ -201,7 +201,7 @@ the shortest vector, we may be lucky enough to find it using a lattice
 reduction algorithm, such as LLL.
 
 
-#### Exercice
+#### Exercise
 
 1. Using the constructor `block_matrix`, construct the matrix
    $$M$$ associated to the knapsack problem above.

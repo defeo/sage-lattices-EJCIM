@@ -1,4 +1,4 @@
-Class Boilerplate
-=================
+Lattices in Sage
+================
 
-Boilerplate Jekyll code for class material.
+Tutorial for the EJCIM 2014 <https://ejcim2014.greyc.fr/>.

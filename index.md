@@ -253,7 +253,7 @@ For simplicity, we are going to work with $$q$$ prime.
 2. Compute a basis of the null space of `A` in $$(ℤ/qℤ)^m$$.
 
 3. Use this matrix to define a basis of $$Λ^\bot(A)$$ (be careful:
-   this is a lattice in $$ℤ^m$$, not in $$(ℤ/qℤ)^m$).
+   this is a lattice in $$ℤ^m$$, not in $$(ℤ/qℤ)^m$$).
 
 4. Compute an LLL-reduced basis of $$Λ^\bot(A)$$. Print the norms of
    the basis vectors.
